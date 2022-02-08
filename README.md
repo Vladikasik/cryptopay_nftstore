@@ -1,0 +1,1 @@
+cryptopay_nftstore
